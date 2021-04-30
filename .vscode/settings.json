@@ -1,0 +1,9 @@
+{
+  // lint on saving files
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true
+  },
+  // format on saving files
+  "editor.formatOnSave": true,
+}
